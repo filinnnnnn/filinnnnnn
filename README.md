@@ -1,8 +1,8 @@
-# Hi there, I'm lov3g00d 👋
+# Hi there, I'm lov3g00d 
 
 I'm a passionate DevOps Engineer with extensive experience in cloud platforms, CI/CD pipelines, automation, and a variety of programming languages. 
 
-🚀 **Skills:**
+ **Skills:**
 - Cloud Platforms: AWS, GCP, Azure
 - CI/CD: GitLab CI/CD, Jenkins, GitHub Actions, Bitbucket Pipelines
 - Infrastructure as Code: Terraform, CloudFormation
